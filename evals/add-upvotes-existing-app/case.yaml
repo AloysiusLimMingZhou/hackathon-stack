@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: add-upvotes-existing-app
+expected_outcome: |
+  Upvotes implemented in the existing project following its layers (entity, service with session-user authorization and one-vote-per-user constraint, server action, UI), with tests added and the suite still green.

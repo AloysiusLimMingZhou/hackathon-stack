@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: deploy-supabase-vercel-cicd
+expected_outcome: |
+  Clear deployment instructions using the Supabase transaction pooler (6543) for the app and a direct/session URL for migrations, DB_SYNC off in production, SSL on, secrets in Vercel/GitHub, and a working CI + CD workflow that migrates before deploying.

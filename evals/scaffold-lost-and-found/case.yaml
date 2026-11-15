@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: scaffold-lost-and-found
+expected_outcome: |
+  A new Next.js app scaffolded with the standard stack (TypeORM/Postgres, Better Auth, Vitest, Playwright, Docker, GitHub Actions), with the example domain replaced by a found-items domain, and lint/typecheck/unit/integration tests passing.
